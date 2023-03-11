@@ -1,0 +1,100 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Red T-Shirt",
+      "description": "A comfortable and stylish red t-shirt.",
+      "price": 19.99,
+      "quantity": 10,
+      "image": "/images/1.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Blue Hoodie",
+      "description": "A warm and cozy blue hoodie for chilly days.",
+      "price": 39.99,
+      "quantity": 5,
+      "image": "/images/2.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Leather Jacket",
+      "description": "A sleek and stylish black leather jacket.",
+      "price": 99.99,
+      "quantity": 2,
+      "image": "/images/3.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Denim Shorts",
+      "description": "Comfortable and stylish denim shorts for warm weather.",
+      "price": 29.99,
+      "quantity": 8,
+      "image": "/images/4.png"
+    },
+    {
+      "id": 5,
+      "name": "Black Dress",
+      "description": "A classic black dress for any occasion.",
+      "price": 59.99,
+      "quantity": 4,
+      "image": "/images/5.jpg"
+    },
+    {
+      "id": 6,
+      "name": "White Sneakers",
+      "description": "A pair of stylish white sneakers for casual wear.",
+      "price": 49.99,
+      "quantity": 12,
+      "image": "/images/6.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Gray Sweatpants",
+      "description": "Comfortable and stylish gray sweatpants for lounging.",
+      "price": 24.99,
+      "quantity": 6,
+      "image": "/images/7.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Brown Leather Boots",
+      "description": "A pair of rugged brown leather boots for outdoor adventures.",
+      "price": 129.99,
+      "quantity": 3,
+      "image": "/images/8.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Yellow Raincoat",
+      "description": "A bright yellow raincoat for rainy days.",
+      "price": 59.99,
+      "quantity": 7,
+      "image": "/images/9.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Green Skirt",
+      "description": "A flowy green skirt for a bohemian look.",
+      "price": 39.99,
+      "quantity": 9,
+      "image": "/images/10.jpg"
+    },
+    {
+      "id": 11,
+      "name": "Striped Polo",
+      "description": "A classic striped polo shirt for a preppy look.",
+      "price": 29.99,
+      "quantity": 11,
+      "image": "/images/11.jpg"
+    },
+    {
+      "id": 12,
+      "name": "Purple Sunglasses",
+      "description": "Stylish purple sunglasses to complete any outfit.",
+      "price": 19.99,
+      "quantity": 15,
+      "image": "/images/12.jpg"
+    }
+  ]
+}
