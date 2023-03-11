@@ -166,5 +166,41 @@
       "rating": 3,
       "date": "2022-10-15"
     }
+  ],
+  "posts": [{
+      "id": 1,
+      "title": "10 Ways to Boost Your Productivity",
+      "author": "Sarah Johnson",
+      "content": "In today's fast-paced world, productivity is key to success. Here are 10 tips to help you boost your productivity and get more done in less time.",
+      "date": "2022-01-01"
+    },
+    {
+      "id": 2,
+      "title": "The Benefits of Meditation",
+      "author": "David Lee",
+      "content": "Meditation has been shown to have numerous benefits for both the mind and body. In this post, we explore some of the top benefits of meditation and how you can get started.",
+      "date": "2022-02-01"
+    },
+    {
+      "id": 3,
+      "title": "The Top 5 Destinations for Adventure Travel",
+      "author": "Alexa Chen",
+      "content": "Are you an adventure seeker? If so, check out our list of the top 5 destinations for adventure travel. From hiking in the mountains to exploring exotic locales, these destinations have it all!",
+      "date": "2022-03-01"
+    },
+    {
+      "id": 4,
+      "title": "The Importance of Eating a Healthy Diet",
+      "author": "John Smith",
+      "content": "Eating a healthy diet is essential for maintaining good health and preventing chronic diseases. In this post, we explore the importance of eating a healthy diet and provide tips for making healthy food choices.",
+      "date": "2022-04-01"
+    },
+    {
+      "id": 5,
+      "title": "How to Build Strong Relationships",
+      "author": "Emily Davis",
+      "content": "Strong relationships are key to happiness and success in life. In this post, we explore how to build strong relationships with family, friends, and coworkers, and why it's important to do so.",
+      "date": "2022-05-01"
+    }
   ]
 }
