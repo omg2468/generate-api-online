@@ -5,6 +5,7 @@ const router = jsonServer.router('db.json')
 const middlewares = jsonServer.defaults()
 
 server.use(middlewares)
+server.use(express.static(__dirname + "/public"));
 // Add this before server.use(router)
 server.use(jsonServer.rewriter({
     '/api/*': '/$1',
